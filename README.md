@@ -3,6 +3,7 @@ JWT（JSON Web Tokein），可以用来生成安全的token，检验前端请求
 
 参考网址为： [http://www.cocoachina.com/webapp/20151021/13824.html](http://www.cocoachina.com/webapp/20151021/13824.html)
 
+
 NodeJS: [auth0/node-jsonwebtoken](node-jsonwebtoken)
 
 PHP: [firebase/php-jwt](php-jwt)
@@ -18,4 +19,8 @@ Python: [progrium/pyjwt](pyjwt)
 
 ## 示例代码
 
-一个Spring Boot， JWT，AugularJS接口安全验证的简单例子  [jwt-angular-spring](jwt-angular-spring)
+一个Spring Boot， JWT，AugularJS接口安全验证的简单例子  [samples/jwt-angular-spring](samples/jwt-angular-spring)
+
+the Stateless Authentication with Spring Security and JWT tutorial. [samples/spring-security-jwt](samples/spring-security-jwt)
+
+Full Security Login System with Spring Boot [samples/Spring-Boot-OAuth2-JWT-MySQL](samples/Spring-Boot-OAuth2-JWT-MySQL)
