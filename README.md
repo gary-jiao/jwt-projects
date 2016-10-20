@@ -7,7 +7,8 @@ NodeJS: [auth0/node-jsonwebtoken](node-jsonwebtoken)
 
 PHP: [firebase/php-jwt](php-jwt)
 
-Java: [auth0/java-jwt](java-jwt)
+Java: [auth0/java-jwt](java-jwt)  
+Java: [jjwt](jjwt)
 
 Ruby: [progrium/ruby-jwt](ruby-jwt)
 
