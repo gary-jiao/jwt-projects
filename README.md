@@ -24,3 +24,8 @@ Python: [progrium/pyjwt](pyjwt)
 the Stateless Authentication with Spring Security and JWT tutorial. [samples/spring-security-jwt](samples/spring-security-jwt)
 
 Full Security Login System with Spring Boot [samples/Spring-Boot-OAuth2-JWT-MySQL](samples/Spring-Boot-OAuth2-JWT-MySQL)
+
+使用 AngularJS & NodeJS 实现基于 token 的认证应用  
+范例参考地址：http://www.cocoachina.com/webapp/20151021/13824.html
+
+[token-based-auth-frontend](token-based-auth-frontend), [token-based-auth-backend](token-based-auth-backend)
